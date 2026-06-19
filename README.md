@@ -4,7 +4,7 @@
 Um projeto criado para poder ajudar a comparar e ver em qual lugar seu tão desejado produto está mais barato ou mais bem avaliado.
 
 # O que estarei usando?
-- HTML
+- HTMLg
 - CSS (Visual)
 - JS (Script de interação)
 - Python (Webscrapping)
