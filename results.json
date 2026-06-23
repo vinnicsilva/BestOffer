@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "nome": "Camisa da Seleção Brasileira",
+        "categoria": "roupas"
+    },
+    {
+        "id": 2,
+        "nome": "Caneca de Café",
+        "categoria": "copos"
+    },
+    {
+        "id": 3,
+        "nome": "Boné",
+        "categoria": "acessórios"
+    }
+]
