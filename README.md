@@ -16,3 +16,4 @@ Um projeto criado para poder ajudar a comparar e ver em qual lugar seu tão dese
 # DEVLOG
 
 19/06 - primeiro commit com o visual da interface e algumas funcionalidades básicas de JS
+23/06 - adição da barra de pesquisa funcional (sugestões de texto + loading para carregamento)
